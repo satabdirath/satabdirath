@@ -1,3 +1,4 @@
+![logo](https://github.com/satabdirath/satabdi-rath/blob/main/Teal%20Futuristic%20Technology%20Facebook%20Cover.png)
 <h1 align="center">Hi 👋, I'm satabdi rath</h1>
 <h3 align="center">A passionate  developer fresher from India</h3>
 
