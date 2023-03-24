@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **satabdirath2000@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/cotzE](shorturl.at/cotzE)
+- 📄 Know about my experiences https://www.hackerearth.com/@satabdi21
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
