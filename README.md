@@ -1,4 +1,4 @@
-![logo](https://github.com/satabdirath/satabdi-rath/blob/main/Teal%20Futuristic%20Technology%20Facebook%20Cover.png)
+
 <h1 align="center">Hi 👋, I'm satabdi rath</h1>
 <h3 align="center">A passionate  developer fresher from India</h3>
 
@@ -12,13 +12,16 @@
 
 - 📄 Know about my experiences https://www.hackerearth.com/@satabdi21
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">coding profiles :</h3>
 <p align="left">
-<a href="https://linkedin.com/in/satabdi rath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satabdi rath" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/satabdirath2000" target="blank"><img align="center" src="https://img.icons8.com/windows/512/hackerrank.png" alt="hackerrank" height="40" width="40" /></a><nbsp><nbsp>
+  <a href="https://www.hackerearth.com/@satabdi21" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/hackerearth-icon-444x512-l67plhxm.png" alt="hackerearth" height="30" width="30" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+  <h3 align="left">🌐 social:</h3>
+  <a href="https://www.linedin.com/in/satabdirath2000" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/768px-LinkedIn_icon.svg.png" alt="linkedin" height="40" width="40" /></a>
+ 
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satabdirath&show_icons=true&locale=en&layout=compact" alt="satabdirath" /></p>
 
