@@ -1,5 +1,15 @@
-# 💫 About Me:
-             I’m currently working on productivity tracker<br><br>🌱 I’m currently learning vue.js, react<br><br>📝 I regularly write articles on https://satabdirath.blogspot.com<br><br>💬 Ask me about laravel, php, codeigniter<br><br>📫 How to reach me satabdirath2000@outlook.com
+<h1 align="center">Hi 👋, I'm satabdi rath</h1>
+<h3 align="center">A passionate backend developer from India</h3>
+
+- 🔭 I’m currently working on **productivity tracker**
+
+- 🌱 I’m currently learning **vue.js, react**
+
+- 📝 I regularly write articles on [https://satabdirath.blogspot.com](https://satabdirath.blogspot.com)
+
+- 💬 Ask me about **laravel, php, codeigniter**
+
+- 📫 How to reach me **satabdirath2000@outlook.com**
 
 
 ## 🌐 Socials:
