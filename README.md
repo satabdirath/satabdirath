@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **vue.js, react**
 
-- 📝 I regularly write articles on [[https://satabdirath.blogspot.com](https://medium.com/@satabdirath2000)]
+- 📝 I regularly write articles on [(https://medium.com/@satabdirath2000)](https://medium.com/@satabdirath2000)]
 
 - 💬 Ask me about **laravel, php, codeigniter**
 
