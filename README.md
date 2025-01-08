@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm satabdi rath</h1>
+<h1 align="center"> I'm satabdi rath</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satabdirath&label=Profile%20views&color=0e75b6&style=flat" alt="satabdirath" /> </p>
 
 
-- 🌱 I’m currently learning **Node js**
+-  I’m currently learning **Node js**
 
-- 👨‍💻 All of my projects are available at [https://satabdirath.github.io/portfolio/](https://satabdirath.github.io/portfolio/)
+-  All of my projects are available at [https://satabdirath.github.io/portfolio/](https://satabdirath.github.io/portfolio/)
 
-- 📝 I regularly write articles on [https://medium.com/@satabdirath](https://medium.com/@satabdirath)
+- I regularly write articles on [https://medium.com/@satabdirath](https://medium.com/@satabdirath)
 
-- 💬 Ask me about **laravel.,php,codeigniter**
+-  Ask me about **laravel.,php,codeigniter**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
