@@ -6,7 +6,7 @@
 
 -  I’m currently learning **Node js**
 
--  All of my projects are available at [https://satabdirath.github.io/portfolio/](https://satabdirath.github.io/portfolio/)
+-  All of my projects are available at [https://srath.netlify.app/](https://srath.netlfy.app/)
 
 - I regularly write articles on [https://medium.com/@satabdirath](https://medium.com/@satabdirath)
 
