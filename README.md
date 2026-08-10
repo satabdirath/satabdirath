@@ -21,23 +21,33 @@
 
 ### 🧭 A little about me
 
-I'm a software developer with **3+ years of experience**. I build the part of an app that most people never see — the part that stores information safely, moves it where it needs to go, and makes sure only the right people can access it.
-
-A simple way to think of it: if a website or app is like a building, I work on the **foundation and wiring** — not the paint and furniture, but the part that makes everything else possible.
+I'm a **Full Stack Developer with 3+ years of experience**.  
+I build both the **frontend people see** and the **backend that makes applications work** — from user interfaces and APIs to databases and authentication.
 
 <table align="center">
 <tr>
 <td align="center" width="160">
-🧩<br/><b>What I do</b><br/><sub>Build the "behind the scenes" part of apps and websites</sub>
+🧩<br/>
+<b>What I do</b><br/>
+<sub>Build full stack web applications</sub>
 </td>
+
 <td align="center" width="160">
-🔐<br/><b>Why it matters</b><br/><sub>Keeps information safe and organized, and shows the right info to the right person</sub>
+🔐<br/>
+<b>What I focus on</b><br/>
+<sub>Secure & reliable applications</sub>
 </td>
+
 <td align="center" width="160">
-🚀<br/><b>Learning now</b><br/><sub>New tools called C#, .NET and Python, to build even better apps</sub>
+🚀<br/>
+<b>Learning now</b><br/>
+<sub>C#, .NET & Python</sub>
 </td>
+
 <td align="center" width="160">
-💃<br/><b>Off duty</b><br/><sub>A classical Odissi dancer who has performed internationally</sub>
+💃<br/>
+<b>Off duty</b><br/>
+<sub>Classical Odissi dancer</sub>
 </td>
 </tr>
 </table>
@@ -67,7 +77,7 @@ A simple way to think of it: if a website or app is like a building, I work on t
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" alt="contribution snake animation"/>
 </p>
 
-> Swap `satabdirath` above for your actual GitHub username so the stats, streak, and activity graph render for your real account. The snake animation needs a one-time GitHub Actions workflow — happy to set that up for you if you'd like.
+
 
 ---
 
