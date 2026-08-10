@@ -67,7 +67,7 @@ Over the last 3+ years, I've worked mostly on the **backend side** — designing
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" alt="contribution snake animation"/>
 </p>
 
-> Swap `satabdirath` above for your actual GitHub username so the stats, streak, and activity graph render for your real account. The snake animation needs a one-time GitHub Actions workflow — happy to set that up for you if you'd like.
+
 
 ---
 
