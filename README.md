@@ -21,23 +21,23 @@
 
 ### 🧭 A little about me
 
-I build the kind of software that works quietly in the background — the systems that keep track of people, records, approvals, and reports so an organization doesn't have to rely on paperwork and phone calls. Think of it like building the plumbing and wiring of a building: nobody notices it when it works, but everything stops if it's missing.
+I'm a software developer with **3+ years of experience**. I build the part of an app that most people never see — the part that stores information safely, moves it where it needs to go, and makes sure only the right people can access it.
 
-Over the last 3+ years, I've worked mostly on the **backend side** — designing databases, building APIs, and setting up systems that decide who can see or do what.
+A simple way to think of it: if a website or app is like a building, I work on the **foundation and wiring** — not the paint and furniture, but the part that makes everything else possible.
 
 <table align="center">
 <tr>
 <td align="center" width="160">
-🧩<br/><b>What I build</b><br/><sub>Software that organizes people, records, approvals &amp; reports</sub>
+🧩<br/><b>What I do</b><br/><sub>Build the "behind the scenes" part of apps and websites</sub>
 </td>
 <td align="center" width="160">
-🔐<br/><b>Why it matters</b><br/><sub>So the right people see the right information, nothing gets lost</sub>
+🔐<br/><b>Why it matters</b><br/><sub>Keeps information safe and organized, and shows the right info to the right person</sub>
 </td>
 <td align="center" width="160">
-🚀<br/><b>Right now</b><br/><sub>Picking up C#, .NET and Python to build even better systems</sub>
+🚀<br/><b>Learning now</b><br/><sub>New tools called C#, .NET and Python, to build even better apps</sub>
 </td>
 <td align="center" width="160">
-💃<br/><b>Off duty</b><br/><sub>Classical Odissi dancer, performed on an international stage</sub>
+💃<br/><b>Off duty</b><br/><sub>A classical Odissi dancer who has performed internationally</sub>
 </td>
 </tr>
 </table>
@@ -67,7 +67,7 @@ Over the last 3+ years, I've worked mostly on the **backend side** — designing
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" alt="contribution snake animation"/>
 </p>
 
-
+> Swap `satabdirath` above for your actual GitHub username so the stats, streak, and activity graph render for your real account. The snake animation needs a one-time GitHub Actions workflow — happy to set that up for you if you'd like.
 
 ---
 
