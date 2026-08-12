@@ -57,7 +57,7 @@ I build both the **frontend people see** and the **backend that makes applicatio
 ### 🛠️ What I build with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,react,cs,dotnet,mysql,postgres,docker,aws,git,html,css,js&amp;theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,java,python,nodejs,react,mysql,postgres,docker,aws,git,html,css,bootstrap,vue&amp;theme=dark" />
 </p>
 
 ---
