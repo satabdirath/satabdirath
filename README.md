@@ -73,9 +73,6 @@ I build both the **frontend people see** and the **backend that makes applicatio
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=satabdirath&amp;theme=tokyo-night&amp;hide_border=true" width="95%"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" alt="contribution snake animation"/>
-</p>
 
 
 
